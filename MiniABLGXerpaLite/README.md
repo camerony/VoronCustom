@@ -7,3 +7,5 @@ Use 2 x M3x12 from top down to secure mount to Mini-AfterSherpa https://github.c
 *Note: Strain Relief is pending.  
 
 Use PTFE tube (the include PTFE from LGX Lite is too short)
+
+![](installed.png)
