@@ -8,7 +8,7 @@ Use PTFE tube (the include PTFE from LGX Lite is too short)
 
 Strain Relief & Spacers
 
-Use 2 x M3x30 to replace included M3x25
+Use 2 x M3x30 (partially threaded preferred) to replace included M3x25
 Optional Use Short piece of PTFE for added relief
 
 
