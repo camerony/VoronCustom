@@ -20,8 +20,9 @@ LGX Lite Cover* - Bondtech requests that the logo be on the cover
 MiniASLGXerpaLite-Cover.stl
 
 *Tolerances are NOT exactly like the original cover.  Use at your own risk :D
+![](CoverComparison.png)
+
 
 ![](Installed.png)
 ![](StrainRelief.jpg)
 ![](Cover.png)
-![](CoverCAD.png)
