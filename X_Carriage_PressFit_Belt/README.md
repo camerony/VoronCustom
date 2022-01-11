@@ -20,7 +20,7 @@ Supports: NONE
 
 Use the same 3 heat inserts as the original.
 
-Insert both retainers into the carriage multiple times before attaching the belt.  This is to ensure there is a good fit and the retainers can be removed.  You may need to use a blunt tool to push out the retainer.  
+Insert both retainers into the carriage multiple times before attaching the belt.  This is to ensure there is a good fit and the retainers can be removed.  You may need to use a blunt tool to push out the retainer. (Do NOT use a screwdriver or knife... you will hurt yourself)
 
 You can leave a little extra belt, if you want and bend it to the side.
 
