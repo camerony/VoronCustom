@@ -1,4 +1,4 @@
-#X-Carriage press fit belt retainer (beta) for V0.1
+# X-Carriage press fit belt retainer (beta) for V0.1
 
 x_carriage_pressfit_belt_x1.stl
 x_carriage_pressfit_belt_retainer_x2
