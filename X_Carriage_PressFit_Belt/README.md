@@ -22,6 +22,8 @@ Use the same 3 heat inserts as the original.
 
 Insert both retainers into the carriage multiple times before attaching the belt.  This is to ensure there is a good fit and the retainers can be removed.  You may need to use a blunt tool to push out the retainer. (Do NOT use a screwdriver or knife... you will hurt yourself)
 
+If the retainer is too tight you may be able scale to 99% or 98% in your slicer.
+
 You can leave a little extra belt, if you want and bend it to the side.
 
 Insert the belt from the back, slide the belt into the retainer match the teeth, and press the retainer into the x-carriage.
