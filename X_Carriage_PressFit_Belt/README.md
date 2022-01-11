@@ -27,4 +27,3 @@ You can leave a little extra belt, if you want and bend it to the side.
 Insert the belt from the back, slide the belt into the retainer match the teeth, and press the retainer into the x-carriage.
 
 <img src="Images/Photo.png" width=300>
-
