@@ -24,7 +24,7 @@ Insert both retainers into the carriage multiple times before attaching the belt
 
 (TODO: Make tool to push out the retainer)
 
-If the retainer is too tight you may be able scale to 99% or 98% in your slicer.
+If the retainer is too tight you can scale it to 99% or 98% in your slicer.
 
 You can leave a little extra belt, if you want and bend it to the side.
 
