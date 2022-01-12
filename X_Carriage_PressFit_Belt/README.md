@@ -32,5 +32,6 @@ Insert the belt from the back, slide the belt into the retainer match the teeth,
 
 (TODO: Detailed instruction on how to tension the belts.  Press in one retainer with the belts, place the second retainer in front of the carriage and slide in the belts to measure but don't press in, loosen front idlers to give slack, move the second retainer 3/4 teeth back from where you measured, and press in second retainer.  Reinstall the front idlers)
 
+Let me know if you find a better way.
 
 <img src="Images/Photo.png" width=300>
