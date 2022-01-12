@@ -1,5 +1,7 @@
 # X-Carriage press fit belt retainer (beta) for V0.1
 
+DOING REDESIGN - DO NOT USE 
+
 x_carriage_pressfit_belt_x1.stl
 x_carriage_pressfit_belt_retainer_x2
 
@@ -31,6 +33,8 @@ You can leave a little extra belt, if you want and bend it to the side.
 Insert the belt from the back, slide the belt into the retainer match the teeth, and press the retainer into the x-carriage.
 
 (TODO: Detailed instruction on how to tension the belts.  Press in one retainer with the belts, place the second retainer in front of the carriage and slide in the belts to measure but don't press in, loosen front idlers to give slack, move the second retainer 3/4 teeth back from where you measured, and press in second retainer.  Reinstall the front idlers)
+
+The belt length require is about 3 teeth shorter than the original design.
 
 Let me know if you find a better way.
 
