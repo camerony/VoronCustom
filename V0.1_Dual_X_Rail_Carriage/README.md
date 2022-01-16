@@ -8,7 +8,7 @@ Requires:
 5 x M2x6 BHCS (mount rail to extrusion)
 5 x M2 Nuts (mount rail to extrusion) or LDO rail mount
 
-![](https://github.com/camerony/VoronCustom/blob/b8fb328c05bf3ad445d04401273a9a28763d5614/V0.1_Dual_X_Rail_Carriage)
+https://github.com/camerony/VoronCustom/blob/ebe7d462dfbc9d7f2f023d78ec90f3b2affd35e5/V0.1_Raise_X_Axis_Extrusion_by_4mm
 
 ![](images/installed.png)
 
