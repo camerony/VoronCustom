@@ -7,13 +7,13 @@
 
 
 ## Bill of materials
- - 2 x M3x8 BHCS (same as original)
- - 2 x M3 Nuts (square is preferable)
+
  - 3 x Heat Set Inserts (same as original)
  - 1 x nonut_x_carriage_x1.stl
  - 1 x nonut_x_carriage_retainer_x1.stl
  - 1 x nonut_x_carriage_removal_tool_x1.stl
-
+ - 2 x M3x8 BHCS (same as original)
+ - 2 x M3 Nuts (square is preferable)
 
 ## Print Settings
 
