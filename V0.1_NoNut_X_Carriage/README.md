@@ -5,7 +5,6 @@
 
 ![](./images/plate.png)
 
-The alternate part *crossrail_slot* is the same mount but with slots to allow 10mm adjustment in either direction
 
 ## Bill of materials
  - 2 x M3x8 BHCS (same as original)
