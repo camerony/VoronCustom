@@ -39,9 +39,9 @@ With the retainer position in from the the X extrusion, slide the belts into the
 
 You can leave a little extra belt, if you want and bend it to the side.
 
-Semi-Optional - Fasten with M3x8 screws, do not over tighten without nuts
+Semi-Optional - Fasten with M3x8 screws, do not over tighten without nut
 
-Optional nuts - use superglue to nuts onto the retainer.
+Optional nut - superglue the nut onto the retainer.
 
 
 ## Images
