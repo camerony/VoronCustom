@@ -49,8 +49,8 @@ Optional nuts - use superglue to nuts onto the retainer.
 ![](./images/prints.png)
 ### Example Install
 ![](./images/installed.png)
-### Optional Nuts with Superglue
-![](./images/nuts.png)
+### Optional Nut with Superglue
+![](./images/nut.png)
 
 
 
