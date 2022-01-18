@@ -11,4 +11,5 @@ Requires:
 https://github.com/camerony/VoronCustom/blob/ebe7d462dfbc9d7f2f023d78ec90f3b2affd35e5/V0.1_Raise_X_Axis_Extrusion_by_4mm
 
 ![](images/installed.png)
+![](images/installeddualx.png)
 
