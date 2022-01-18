@@ -12,7 +12,7 @@
  - 1 x nonut_x_carriage_removal_tool_x1.stl
  - 2 x M3x8 BHCS (same as original)
  - 2 x Optional - M3 Nuts (square is preferable)
- - 1 x Optional - nonut_x_carriage_retainer_hard_x1 (this version of the retainer is hard to install for trimmed belt)
+ - 1 x Optional - nonut_x_carriage_retainer_hard_x1 (this version of the retainer is hard mode to install for already trimmed belt)
 
 ## Print Settings
 
