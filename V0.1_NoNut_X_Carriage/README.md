@@ -49,7 +49,7 @@ Optional nut - superglue the nut onto the retainer.
 ### Optional Nut with Superglue
 ![](./images/nut.png)
 
-### Example Install Dual X version (see other V0.1_Dual_X_Rail_Carriage)
+### Example Install Dual X version (see other mod V0.1_Dual_X_Rail_Carriage)
 ![](./images/installeddualx.png)
 
 
