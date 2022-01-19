@@ -15,7 +15,9 @@
 - [ ] 1 x aluminum foil
 - [ ] 1 x hotend sock
 - [ ] 2 x 24 AWG wire 50 cm (length various on wire path)
+- [ ] 1 x Optional piece of sandpaper
 - [ ] 1 x Optional Sticker/Label (to make which is the probe side for your plate)
+
 
 ## Tools
 - [ ] Multimeter to test for continuity
@@ -87,7 +89,7 @@ mesh_pps: 2,2
 ```
 
 ## Usage
-Use stacked plates, the offset plate on top of your printing plate.  This will allow you to probe multiple plates without have to adjust the ```z-offset```.  However, you can use one plate just make sure you have 0 as your offset.
+Use stacked plates, the offset plate on top of your printing plate.  This will allow you to probe multiple plates without have to adjust the ```z-offset```.  However, you can use one plate just make sure you have 0 as your offset.  Be sure to clean your plate, and your nozzle.  Use a small piece of sandpaper on the nozzle to remove any old plastic.
 
 ![](./images/plates.png)   
 
