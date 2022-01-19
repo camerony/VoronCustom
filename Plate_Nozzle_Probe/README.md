@@ -1,4 +1,4 @@
-# Plate Nozzle Probe for V0.1 (might work for others) ALPHA
+# Nozzy Probe : Plate Nozzle Probe for V0.1 (might work for others) ALPHA
 
 *** I am not responsible for any damage to your printer ***
 
