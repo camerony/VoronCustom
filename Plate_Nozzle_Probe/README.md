@@ -49,6 +49,9 @@ Crimp the DuPont male pin to the hotend wire.
 ### Puncture the hotend sock with the male pin, and ensure it's touching the foil
 ![](./images/dupontpin.png)   
 
+### Clean the nozzle tip
+Make sure the nozzle tip is cleaned, as it will be used as the point of contact.
+
 ### Add/Modify printer configuration (shameless stolen from Klicky)
 ```python
 [probe]
