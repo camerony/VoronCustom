@@ -42,7 +42,8 @@ Run one wire to the toolhead and the other to the bed, it doesn't matter which w
 ### Solder the bed wire to the magnet, this will be used to stick to the PEI sheet on the bare side.
 ![](./images/magnet.png) 
 
-### Line the hotend sock with a small piece of alumunim foil. Fold the foil a few times.
+### Line the hotend sock with a small piece of alumunim foil. Fold the foil a few times, not too thick otherwise the sock won't stay on.
+### Don't forget to cut a hole for the nozzle.  
 ![](./images/hotendsock.png)   
 
 Crimp the DuPont male pin to the hotend wire.
