@@ -126,28 +126,24 @@ Enter ```PROBE_ACCURACY```
 and you should get something like back like 
 
 ```python
-10:21:24 
-// PROBE_ACCURACY at X:60.000 Y:60.000 Z:60.000 (samples=10 retract=2.000 speed=7.0 lift_speed=7.0)
-10:21:33 
-// probe at 60.000,60.000 is z=0.423438
-10:21:34 
-// probe at 60.000,60.000 is z=0.451406
-10:21:35 
-// probe at 60.000,60.000 is z=0.452969
-10:21:36 
-// probe at 60.000,60.000 is z=0.452813
-10:21:37 
-// probe at 60.000,60.000 is z=0.452188
-10:21:38 
-// probe at 60.000,60.000 is z=0.452188
-10:21:40 
-// probe at 60.000,60.000 is z=0.452656
-10:21:41 
-// probe at 60.000,60.000 is z=0.454063
-10:21:42 
-// probe at 60.000,60.000 is z=0.452813
-10:21:43 
-// probe at 60.000,60.000 is z=0.453594
-10:21:43 
-// probe accuracy results: maximum 0.454063, minimum 0.423438, range 0.030625, average 0.449813, median 0.452734, standard deviation 0.008820
+14:12:57 
+// probe at 60.000,60.000 is z=0.545625
+14:12:58 
+// probe at 60.000,60.000 is z=0.543594
+14:13:00 
+// probe at 60.000,60.000 is z=0.542813
+14:13:01 
+// probe at 60.000,60.000 is z=0.543438
+14:13:02 
+// probe at 60.000,60.000 is z=0.542813
+14:13:03 
+// probe at 60.000,60.000 is z=0.543594
+14:13:04 
+// probe at 60.000,60.000 is z=0.542344
+14:13:05 
+// probe at 60.000,60.000 is z=0.542656
+14:13:06 
+// probe at 60.000,60.000 is z=0.543594
+14:13:06 
+// probe accuracy results: maximum 0.545625, minimum 0.540469, range 0.005156, average 0.543094, median 0.543125, standard deviation 0.001228
 ```
