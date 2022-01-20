@@ -51,8 +51,8 @@ Crimp the DuPont male pin to the hotend wire.
 ### Puncture the hotend sock with the male pin, and ensure it's touching the foil
 ![](./images/dupontpin.png)   
 
-### Clean the nozzle tip
-Make sure the nozzle tip is cleaned, as it will be used as the point of contact.
+### Clean the nozzle tip & bare plate
+Make sure the nozzle tip is cleaned, as it will be used as the point of contact.  It's recommended to heat up the hotend so that any filament will be discharged and cleaned with ISO.  Clean the bare plate with ISO and printing plate (if one is being stacked)
 
 ### Add/Modify printer configuration (shameless stolen from Klicky)
 ```python
@@ -122,7 +122,7 @@ While holding the plate probe with your HAND to the nozzle enter ```QUERY_PROBE`
 ```
 
 Move the toolhead to the middle and the bed to the bottom.
-Enter ```PROBE_ACCURACY``
+Enter ```PROBE_ACCURACY```
 and you should get something like back like 
 
 ```python
