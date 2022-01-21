@@ -32,7 +32,7 @@ Supports: NONE
 ## Installation Notes
 Insert the retainer into the carriage multiple times before attaching the belt.  This is to ensure there is a good fit. Use the removal tool to push out the retainer from the back. You may need to sandpaper on the retainer if the fit is too tight.
 
-Insert a ziptip into the retainer loop to verify that you can remove it.
+Insert a ziptip into the retainer loop to verify that you can remove it.  If you cannot remove it fairly easily use some sandpaper to adjust the sides of the retainer a little bit.
 
 Install heat inserts into the x-carriage.
 
@@ -44,7 +44,9 @@ You can leave a little belt slack which will be bent into the slot to keep it fr
 
 Give the belts a good tug to double check they are secure.
 
-Use the 4 M2x6 screws and mount into the rail carriage
+Use the 4 M2x6 screws and mount into the rail carriage.
+
+Cut the ziptie from the retainer.  If you need to remove the retainer in the future insert a ziptie and pull out the retainer.
 
 ## Images
 ### Printed Parts
