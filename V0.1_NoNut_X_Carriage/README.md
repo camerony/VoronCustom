@@ -7,13 +7,12 @@
 
 ## Bill of materials
  - 3 x Heat Set Inserts (same as original)
+ - 4 x M2 x 6 BHCS screws
  - 1 x nonut_x_carriage_x1.stl
  - 1 x nonut_x_carriage_retainer_x1.stl
  - 1 x nonut_x_carriage_removal_tool_x1.stl
- - 2 x M3x8 BHCS (same as original)
- - 2 x Optional - M3 Nuts (square is preferable)
- - 1 x Optional - nonut_x_carriage_retainer_hard_x1 (this version of the retainer is hard mode to install for already trimmed belt)
-
+ - 1 x nonut_x_carriage_belt_guide_x1.stl
+ - 1 x optional sandpaper
 ## Print Settings
 
  Print using Voron print specifications
@@ -31,30 +30,30 @@ Supports: NONE
 
 
 ## Installation Notes
-Insert the retainer into the carriage multiple times before attaching the belt.  This is to ensure there is a good fit. Use the removal tool to push out the retainer from the front. 
+Insert the retainer into the carriage multiple times before attaching the belt.  This is to ensure there is a good fit. Use the removal tool to push out the retainer from the back. You may need to sandpaper on the retainer if the fit is too tight.
 
-With the retainer positioned in front of the X extrusion, slide the belts into the retainer matching the teeth, and press the x-carriage on to the retainer. 
+Insert a ziptip into the retainer loop to verify that you can remove it.
 
-You can leave a little extra belt, if you want and bend it to the side.
+Install heat inserts into the x-carriage.
 
-Fasten with M3x8 screws, do not over tighten without nut.
+Insert the belt guide from the front to help insert the belts into the slots from the back. (see Belt Path picture below)
 
-Optional nut - superglue the nut onto the retainer.
+Remove the belt guide and insert the retainer once you're happy with the belt length.
 
+You can leave a little belt slack which will be bent into the slot to keep it from interfering with the toolhead.
+
+Give the belts a good tug to double check they are secure.
+
+Use the 4 M2x6 screws and mount into the rail carriage
 
 ## Images
 ### Printed Parts
 ![](./images/prints.png)
-### Example Install
-![](./images/installed.png)
-### Optional Nut with Superglue
-![](./images/nut.png)
-
-### Example Install Dual X version (see other mod V0.1_Dual_X_Rail_Carriage)
-![](./images/installeddualx.png)
+### Belt Path 
+![](./images/beltpath.png)
 
 
 
 
 
-
+Thanks @zruncho for the belt path idea. :D
