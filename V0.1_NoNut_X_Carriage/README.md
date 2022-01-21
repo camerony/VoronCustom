@@ -13,6 +13,7 @@
  - 1 x nonut_x_carriage_removal_tool_x1.stl
  - 1 x nonut_x_carriage_belt_guide_x1.stl
  - 1 x optional sandpaper
+ - 2mm zip ties
 ## Print Settings
 
  Print using Voron print specifications
