@@ -9,6 +9,7 @@ Turn 90 degrees to lock into place and slide to the back panel
 
 
 ![](./images/cad.png)   
+![](./images/cad2.png)   
 
 
 
