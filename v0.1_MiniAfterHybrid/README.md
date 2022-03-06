@@ -1,4 +1,4 @@
-# MiniAfterHybrid to V0.1
+# MiniAfterHybrid to V0.1 (Alpha)
 
 Crossbreed Hybrid of the MiniAfterSherpa (Kyrios) &  Mini After-LGX-Lite (Olof Ogland)
 
@@ -8,16 +8,20 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 
 *** Extruders ***
 - Direct Mounts
-    - MiniSherpa
-    - LGX Lite with modified X-Carriage
+    - Sherpa Mini Extruder
+    - LGX Lite Extruder with modified X-Carriage
 
-- Needs Additional Mount
-    - LGX Lite + Mount with standard X-Carriage & Mount
-    - Orbiter 2  + Mount with standard X-Carriage (coming soon)
+- Needs Additional Adapter
+    - LGX Lite + Adapter with standard X-Carriage
+    - Orbiter 2  + Adapter with standard X-Carriage (coming soon)
 
 ## Bill of materials
+2x M3×35mm FHCS, BHCS, or SHCS
 2× M3×5×4mm heatset inserts
-3x M2.5x8mm Dragonfly mount
+2× 3010 Blower fans
+1× 3007 Axial fan
+
+3x M2.5x10mm Dragonfly mount (comes with hotend)
 
 ![](images/CAD.png)
 ![](images/CAD2.png)
@@ -25,6 +29,7 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 
 ### Optional
 V01_MiniAfterHybrid_XCarriage.stl 
+mount_dragonfly.stl 
 
 Source for MiniAfterSherpa https://github.com/KurioHonoo/Mini-AfterSherpa
 
