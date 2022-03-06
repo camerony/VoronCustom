@@ -31,6 +31,8 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 V01_MiniAfterHybrid_XCarriage.stl 
 mount_dragonfly.stl 
 
+
+### Sources
 Source for MiniAfterSherpa https://github.com/KurioHonoo/Mini-AfterSherpa
 
 Source for Mini After-LGX-Lite: https://github.com/BondtechAB/VoronUsers/tree/master/printer_mods/Bondtech/Mini_After-LGX-Lite
