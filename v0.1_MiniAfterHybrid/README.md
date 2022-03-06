@@ -28,8 +28,7 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 
 
 ### Optional
-V01_MiniAfterHybrid_XCarriage.stl 
-mount_dragonfly.stl 
+V01_MiniAfterHybrid_XCarriage.stl  
 
 
 ### Sources
