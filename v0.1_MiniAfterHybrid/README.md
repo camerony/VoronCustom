@@ -8,12 +8,12 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 
 *** Extruders ***
 - Direct Mounts
-    MiniSherpa
-    LGX Lite with modified X-Carriage
+    - MiniSherpa
+    - LGX Lite with modified X-Carriage
 
 - Needs Additional Mount
-    LGX Lite + Mount with standard X-Carriage & Mount
-    Orbiter 2  + Mount with standard X-Carriage (coming soon)
+    - LGX Lite + Mount with standard X-Carriage & Mount
+    - Orbiter 2  + Mount with standard X-Carriage (coming soon)
 
 ## Bill of materials
 2× M3×5×4mm heatset inserts
