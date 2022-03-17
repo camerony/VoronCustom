@@ -26,6 +26,8 @@ V01_MiniAfterHybrid_XCarriage.stl
 ![](images/CAD2.png)
 ![](images/CAD3.png)
 
+![](images/Photo.png)
+
 ### NOTE: Wiring ###
 Be sure to rewire to the FAN1 if you using a 24v blower fan.
 
