@@ -25,6 +25,8 @@ V01_MiniAfterHybrid_XCarriage.stl
 ![](images/CAD.png)
 ![](images/CAD2.png)
 
+### NOTE: Wiring ###
+Be sure to rewire to the FAN1 if you using a 24v blower fan.
 
 ### Sources
 Source for Mini After-LGX-Lite: https://github.com/BondtechAB/VoronUsers/tree/master/printer_mods/Bondtech/Mini_After-LGX-Lite
