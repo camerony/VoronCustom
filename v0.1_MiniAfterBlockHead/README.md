@@ -1,6 +1,7 @@
 # MiniAfterBlockhead to V0.1 (Alpha)
 
 Modified Mini After-LGX-Lite (Olof Ogland) to use 3010 Blower as Hotend Fan
+This requires the use of other parts from the original sources for installation (see below)
 
 ## Why??
 Better hotend cooling to reduce heat creep.
@@ -21,6 +22,7 @@ V01_MiniAfterHybrid_XCarriage.stl
 2x M3×35mm FHCS, BHCS, or SHCS
 2× M3×5×4mm heatset inserts
 3× 3010 Blower fans (tested with GDSTime 24v)
+1x JST 2-Pin connector to rewire for FAN1
 
 ![](images/CAD.png)
 ![](images/CAD2.png)
@@ -31,10 +33,12 @@ V01_MiniAfterHybrid_XCarriage.stl
 ### NOTE: Wiring ###
 Be sure to rewire to the FAN1 if you using a 24v blower fan.
 
-### Sources
+### Sources for other required parts
 Source for Mini After-LGX-Lite: https://github.com/BondtechAB/VoronUsers/tree/master/printer_mods/Bondtech/Mini_After-LGX-Lite
 
 Source for Klicky integration: https://github.com/jlas1/Klicky-Probe
+
+Source for Sherpa Mini: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 Credits: 
 Olof Ogland
