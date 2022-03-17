@@ -3,7 +3,7 @@
 Modified Mini After-LGX-Lite (Olof Ogland) to use 3010 Blower as Hotend Fan
 
 ## Why??
-Better hotend cooling and reduces heat creep.
+Better hotend cooling to reduce heat creep.
 
 
 *** Extruders ***
@@ -24,6 +24,7 @@ V01_MiniAfterHybrid_XCarriage.stl
 
 ![](images/CAD.png)
 ![](images/CAD2.png)
+![](images/CAD3.png)
 
 ### NOTE: Wiring ###
 Be sure to rewire to the FAN1 if you using a 24v blower fan.
@@ -38,6 +39,6 @@ Olof Ogland
 Nemgrea
 DaveR
 JosAr
-smolboi
+
 
 
