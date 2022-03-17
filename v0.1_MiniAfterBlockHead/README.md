@@ -1,46 +1,34 @@
-# MiniAfterHybrid to V0.1 (Alpha)
+# MiniAfterBlockhead to V0.1 (Alpha)
 
-Crossbreed Hybrid of the MiniAfterSherpa (Kyrios) &  Mini After-LGX-Lite (Olof Ogland)
+Modified Mini After-LGX-Lite (Olof Ogland) to use 3010 Blower as Hotend Fan
 
 ## Why??
-More flexiblity with one cowling - supports multiple extruders and multiple hotends
+Better hotend cooling and reduces heat creep.
 
 
 *** Extruders ***
 - Direct Mounts
-    - Sherpa Mini Extruder
-    - LGX Lite Extruder with modified X-Carriage
-
-- Needs Additional Adapter
-    - LGX Lite + Adapter with standard X-Carriage
-    - Orbiter 2  + Adapter with standard X-Carriage (coming soon)
+    - Sherpa Mini Extruder - With Modified Mid-Body (sherpa_mini_mid_flipped)
+    - LGX Lite Extruder
 
 ## Bill of materials
 2x M3×35mm FHCS, BHCS, or SHCS
 2× M3×5×4mm heatset inserts
-2× 3010 Blower fans
-1× 3007 Axial fan
-
-3x M2.5x10mm Dragonfly mount (comes with hotend)
+3× 3010 Blower fans
 
 ![](images/CAD.png)
 ![](images/CAD2.png)
 
-
-### Optional
+### X-Carriage or use the Mini After-LGX-Lite X-Carriage
 V01_MiniAfterHybrid_XCarriage.stl  
 
 
 ### Sources
-Source for MiniAfterSherpa https://github.com/KurioHonoo/Mini-AfterSherpa
-
 Source for Mini After-LGX-Lite: https://github.com/BondtechAB/VoronUsers/tree/master/printer_mods/Bondtech/Mini_After-LGX-Lite
 
 Source for Klicky integration: https://github.com/jlas1/Klicky-Probe
 
-
 Credits: 
-Kyrios 
 Olof Ogland
 Nemgrea
 DaveR
