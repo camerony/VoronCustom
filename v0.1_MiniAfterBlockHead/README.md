@@ -4,7 +4,7 @@ Modified Mini After-LGX-Lite (Olof Ogland) to use 3010 Blower as Hotend Fan
 This requires the use of other parts from the original sources for installation (see below)
 
 ## Why??
-Better hotend cooling to reduce heat creep.
+Better hotend cooling to reduce heat creep/clogging.  Tested for 9hr 47min printing PLA with a flow of .75mm/s with 75% fan that was fully enclosed without clogging using a Dragonfly BMO hotend.
 
 
 *** Extruders ***
