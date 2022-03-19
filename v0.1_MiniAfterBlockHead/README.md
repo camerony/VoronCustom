@@ -23,10 +23,12 @@ V01_MiniAfterHybrid_XCarriage.stl
 2× M3×5×4mm heatset inserts
 3× 3010 Blower fans (tested with GDSTime 24v)
 1x JST 2-Pin connector to rewire for FAN1
+2x M3×25mm FHCS, BHCS, or SHCS for Sherpa Mini Extruder
 
 ![](images/CAD.png)
 ![](images/CAD2.png)
 ![](images/CAD3.png)
+![](images/CADSherpaMini.png)
 
 ![](images/Photo.png)
 
