@@ -1,4 +1,4 @@
-# MiniAfterHybrid to V0.1 (Alpha)
+# MiniAfterHybrid to V0.1 (Beta)
 
 Crossbreed Hybrid of the MiniAfterSherpa (Kyrios) &  Mini After-LGX-Lite (Olof Ogland)
 
@@ -14,6 +14,10 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 - Needs Additional Adapter
     - LGX Lite + Adapter with standard X-Carriage
     - Orbiter 2  + Adapter with standard X-Carriage (coming soon)
+
+*** Hotends ***
+ - All the hotends that Mini After-LGX-Lite support
+ - Revo Micro (Alpha) (requires reprint of the cowling and mount)
 
 ## Bill of materials
 2x M3×35mm FHCS, BHCS, or SHCS
