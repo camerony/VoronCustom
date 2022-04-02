@@ -13,7 +13,10 @@ More flexiblity with one cowling - supports multiple extruders and multiple hote
 
 - Needs Additional Adapter
     - LGX Lite + Adapter with standard X-Carriage
-    - Orbiter 2  + Adapter with standard X-Carriage (coming soon)
+    - Orbiter 2  + Adapter with standard X-Carriage
+        - BOM
+            - 4 x M3×5×4mm heatset inserts
+            - M3x10mm
 
 *** Hotends ***
  - All the hotends that Mini After-LGX-Lite support
