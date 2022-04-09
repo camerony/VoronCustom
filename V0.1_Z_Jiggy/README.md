@@ -12,6 +12,8 @@ Use this tool with the printer turned off.
 
 This is an alignment tool and should be removed before turn back on your printer.
 
+Please verify the printed jig has the correct dimensions, it should be within .5mm of the diagram.
+![](./images/dim.png)   
 
 ![](./images/cad.png)   
 ![](./images/cad2.png)   
