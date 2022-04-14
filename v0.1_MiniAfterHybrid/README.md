@@ -41,7 +41,7 @@ V01_MiniAfterHybrid_XCarriage.stl
 ### Sources
 Source for MiniAfterSherpa https://github.com/KurioHonoo/Mini-AfterSherpa
 
-Source for Mini After-LGX-Lite: https://github.com/BondtechAB/VoronUsers/tree/master/printer_mods/Bondtech/Mini_After-LGX-Lite
+Source for Mini After-LGX-Lite: https://github.com/BondtechAB/VoronUsers/tree/master/printer_mods/Bondtech/Mini-After-LGX-Lite
 
 Source for Klicky integration: https://github.com/jlas1/Klicky-Probe
 
