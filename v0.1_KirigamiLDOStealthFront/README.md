@@ -10,5 +10,8 @@ Works only with the LDO Neopixel PCB
 ![](./images/front.png)   
 ![](./images/back.png)   
 
+![](./images/print.png)   
+![](./images/installed.png)   
+
 
 
